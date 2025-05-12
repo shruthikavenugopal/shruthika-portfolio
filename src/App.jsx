@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+const viteLogo = `${import.meta.env.BASE_URL}vite.svg`; 
 import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
