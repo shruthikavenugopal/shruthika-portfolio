@@ -1,8 +1,29 @@
-# React + Vite
+# Shruthika V - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! 👋  
+This site showcases my projects, skills, and experience as a **React** and **React Native** developer.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+You can view the live version of the portfolio here:  
+👉 [https://shruthikavenugopal.github.io/shruthika-portfolio](https://shruthikavenugopal.github.io/shruthika-portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Features
+- Dynamic typing animation
+- Fully responsive for all screen sizes
+- Hero section with code-themed visual
+- Project showcase and contact section
+
+
+## 🛠️ Tech Stack
+- **Frontend**: React + Vite
+- **Deployment**: GitHub Pages
+
+
+## 📬 Contact Me
+- Email: shruthikavenugopal1630@gmail.com
+- Location: Coimbatore, India
+
+---
+
+
+⭐️ Designed and developed by Shruthika V ⭐️
