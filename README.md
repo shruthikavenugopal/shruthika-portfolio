@@ -5,7 +5,7 @@ This site showcases my projects, skills, and experience as a **React** and **Rea
 
 ## 🔗 Live Demo
 You can view the live version of the portfolio here:  
-👉 [https://your-github-username.github.io/shruthika-portfolio](https://your-github-username.github.io/shruthika-portfolio) *(Update this once deployed)*
+👉 [https://shruthikavenugopal.github.io/shruthika-portfolio](https://shruthikavenugopal.github.io/shruthika-portfolio)
 
 ## 🛠️ Tech Stack
 - **Frontend**: React + Vite
@@ -25,7 +25,7 @@ shruthika-portfolio/
 ├── index.html
 └── vite.config.js
 
-⭐️ Designed and developed by Shruthika V ⭐️
+
 
 ## 📸 Features
 - Dynamic typing animation
@@ -39,4 +39,7 @@ shruthika-portfolio/
 
 ---
 
-Feel free to fork or contribute to this project!
+
+⭐️ Designed and developed by Shruthika V ⭐️
+
+
