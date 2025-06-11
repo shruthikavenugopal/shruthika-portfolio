@@ -1,9 +1,6 @@
 import js from '@eslint/js'
 import globals from 'globals'
-<<<<<<< HEAD
-=======
 import react from 'eslint-plugin-react'
->>>>>>> 7835ade523884f7d5ef7706aa9114e761027d99a
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 
@@ -20,27 +17,18 @@ export default [
         sourceType: 'module',
       },
     },
-<<<<<<< HEAD
-    plugins: {
-=======
     settings: { react: { version: '18.3' } },
     plugins: {
       react,
->>>>>>> 7835ade523884f7d5ef7706aa9114e761027d99a
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
     },
     rules: {
       ...js.configs.recommended.rules,
-<<<<<<< HEAD
-      ...reactHooks.configs.recommended.rules,
-      'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
-=======
       ...react.configs.recommended.rules,
       ...react.configs['jsx-runtime'].rules,
       ...reactHooks.configs.recommended.rules,
       'react/jsx-no-target-blank': 'off',
->>>>>>> 7835ade523884f7d5ef7706aa9114e761027d99a
       'react-refresh/only-export-components': [
         'warn',
         { allowConstantExport: true },
